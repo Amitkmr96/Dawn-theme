@@ -15,8 +15,15 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text": "{{ product.vendor }}",
+            "text": "",
             "text_style": "uppercase"
+          }
+        },
+        "text_xMpHMe": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
           }
         },
         "title": {
@@ -64,6 +71,7 @@
       },
       "block_order": [
         "vendor",
+        "text_xMpHMe",
         "title",
         "price",
         "variant_picker",
