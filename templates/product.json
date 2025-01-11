@@ -134,17 +134,10 @@
             "heading": "",
             "heading_size": "h1"
           }
-        },
-        "text_GHdFFH": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
-          }
         }
       },
       "block_order": [
-        "heading_UhHtxj",
-        "text_GHdFFH"
+        "heading_UhHtxj"
       ],
       "settings": {
         "desktop_content_position": "center",
